@@ -38,7 +38,7 @@ In this project, we will be fine-tuning text classification NLP models from hugg
 
 ## Hugging Face
 
-Visit my Hugging Face space to access the pre-trained models and Gradio app: [Azie88](https://huggingface.co/bambadij)
+Visit my Hugging Face space to access the pre-trained models and Gradio app: [Bambadij](https://huggingface.co/bambadij)
 
 ## Author 🖊️
 
